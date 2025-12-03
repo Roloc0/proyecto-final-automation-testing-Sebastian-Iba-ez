@@ -5,5 +5,5 @@ import time
 def test_login(driver):
     loginPage = LoginPage(driver)
     loginPage.open()
-    loginPage.login()
-    time.sleep(5)
+    loginPage.login("standard_user", "secret_sauce")
+    time.sleep(3)

@@ -12,7 +12,7 @@ def test_cart_operations(driver):
     login.login("standard_user", "secret_sauce")
     time.sleep(3)
 
-    #Agregar producto y ir al carrito
-    inventory.add_product_to_cart(0)
-    inventory.go_to_cart()
-    time.sleep(7)
+    #Agregar producto e ir al carrito
+    inventory.agregar_producto()
+    inventory.ir_al_carrito()
+    time.sleep(4)
