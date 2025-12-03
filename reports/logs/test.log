@@ -1,0 +1,99 @@
+2025-12-03 14:52:03,436 - INFO - Iniciando test_api_get_post
+2025-12-03 14:58:29,967 - INFO - Inicializando el navegador
+2025-12-03 14:58:38,795 - INFO - Cerrando el navegador
+2025-12-03 14:58:40,913 - INFO - Inicializando el navegador
+2025-12-03 14:58:49,912 - INFO - Cerrando el navegador
+2025-12-03 14:58:52,015 - INFO - Inicializando el navegador
+2025-12-03 14:59:01,836 - INFO - Cerrando el navegador
+2025-12-03 14:59:03,945 - INFO - Inicializando el navegador
+2025-12-03 14:59:08,655 - INFO - Cerrando el navegador
+2025-12-03 14:59:10,761 - INFO - Inicializando el navegador
+2025-12-03 14:59:15,475 - INFO - Cerrando el navegador
+2025-12-03 14:59:17,562 - INFO - Iniciando test_api_delete_post
+2025-12-03 14:59:18,049 - INFO - Concluido el test_api_delete_post
+2025-12-03 14:59:18,049 - INFO - Iniciando test_api_get_post
+2025-12-03 14:59:18,410 - INFO - codigo validado
+2025-12-03 14:59:18,410 - INFO - Concluido el test_api_get_post
+2025-12-03 14:59:18,410 - INFO - Iniciado el test_api_put_post
+2025-12-03 14:59:19,099 - INFO - Codigo validado
+2025-12-03 14:59:19,099 - INFO - Concluido el test_api_put_post
+2025-12-03 15:14:08,962 - INFO - Inicializando el navegador
+2025-12-03 15:14:10,517 - ERROR - Test FAILED \u2192 Screenshot guardado en reports\screenshots\test_login_2025-12-03_15-14-10.png
+2025-12-03 15:14:10,517 - INFO - Cerrando el navegador
+2025-12-03 15:20:21,167 - INFO - Inicializando el navegador
+2025-12-03 15:20:25,931 - INFO - Cerrando el navegador
+2025-12-03 15:20:53,855 - INFO - Iniciado el test_api_put_post
+2025-12-03 15:20:54,590 - INFO - Codigo validado
+2025-12-03 15:20:54,590 - INFO - Concluido el test_api_put_post
+2025-12-03 15:21:02,251 - INFO - Inicializando el navegador
+2025-12-03 15:21:11,088 - INFO - Cerrando el navegador
+2025-12-03 15:21:53,583 - INFO - Inicializando el navegador
+2025-12-03 15:22:02,468 - INFO - Cerrando el navegador
+2025-12-03 15:32:04,205 - INFO - Inicializando el navegador
+2025-12-03 15:32:13,106 - INFO - Cerrando el navegador
+2025-12-03 15:32:15,217 - INFO - Inicializando el navegador
+2025-12-03 15:32:24,210 - INFO - Cerrando el navegador
+2025-12-03 15:32:26,320 - INFO - Inicializando el navegador
+2025-12-03 15:32:36,206 - INFO - Cerrando el navegador
+2025-12-03 15:32:38,292 - INFO - Inicializando el navegador
+2025-12-03 15:32:43,081 - INFO - Cerrando el navegador
+2025-12-03 15:32:45,219 - INFO - Inicializando el navegador
+2025-12-03 15:32:49,936 - INFO - Cerrando el navegador
+2025-12-03 15:32:52,028 - INFO - Iniciando test_api_delete_post
+2025-12-03 15:32:52,494 - INFO - Concluido el test_api_delete_post
+2025-12-03 15:32:52,497 - INFO - Iniciando test_api_get_post
+2025-12-03 15:32:52,831 - INFO - codigo validado
+2025-12-03 15:32:52,831 - INFO - Concluido el test_api_get_post
+2025-12-03 15:32:52,835 - INFO - Iniciado el test_api_put_post
+2025-12-03 15:32:53,551 - INFO - Codigo validado
+2025-12-03 15:32:53,551 - INFO - Concluido el test_api_put_post
+2025-12-03 15:35:45,643 - INFO - Inicializando el navegador
+2025-12-03 15:35:47,389 - ERROR - Test FAILED \u2192 Screenshot guardado en reports\screenshots\test_login_2025-12-03_15-35-47.png
+2025-12-03 15:35:47,389 - INFO - Cerrando el navegador
+2025-12-03 15:35:56,952 - INFO - Inicializando el navegador
+2025-12-03 15:36:05,782 - INFO - Cerrando el navegador
+2025-12-03 15:36:07,886 - INFO - Inicializando el navegador
+2025-12-03 15:36:16,859 - INFO - Cerrando el navegador
+2025-12-03 15:36:18,949 - INFO - Inicializando el navegador
+2025-12-03 15:36:28,846 - INFO - Cerrando el navegador
+2025-12-03 15:36:30,936 - INFO - Inicializando el navegador
+2025-12-03 15:36:32,726 - ERROR - Test FAILED \u2192 Screenshot guardado en reports\screenshots\test_login_2025-12-03_15-36-32.png
+2025-12-03 15:36:32,726 - INFO - Cerrando el navegador
+2025-12-03 15:36:34,819 - INFO - Inicializando el navegador
+2025-12-03 15:36:39,562 - INFO - Cerrando el navegador
+2025-12-03 15:36:41,677 - INFO - Iniciando test_api_delete_post
+2025-12-03 15:36:44,349 - INFO - Concluido el test_api_delete_post
+2025-12-03 15:36:44,349 - INFO - Iniciando test_api_get_post
+2025-12-03 15:36:44,708 - INFO - codigo validado
+2025-12-03 15:36:44,708 - INFO - Concluido el test_api_get_post
+2025-12-03 15:36:44,709 - INFO - Iniciado el test_api_put_post
+2025-12-03 15:36:47,493 - INFO - Codigo validado
+2025-12-03 15:36:47,493 - INFO - Concluido el test_api_put_post
+2025-12-03 15:41:47,511 - INFO - Inicializando el navegador
+2025-12-03 15:41:56,357 - INFO - Cerrando el navegador
+2025-12-03 15:41:58,455 - INFO - Inicializando el navegador
+2025-12-03 15:42:07,458 - INFO - Cerrando el navegador
+2025-12-03 15:42:09,549 - INFO - Inicializando el navegador
+2025-12-03 15:42:19,440 - INFO - Cerrando el navegador
+2025-12-03 15:42:21,525 - INFO - Inicializando el navegador
+2025-12-03 15:42:26,251 - INFO - Cerrando el navegador
+2025-12-03 15:42:28,336 - INFO - Inicializando el navegador
+2025-12-03 15:42:33,200 - INFO - Cerrando el navegador
+2025-12-03 15:42:35,319 - INFO - Iniciando test_api_delete_post
+2025-12-03 15:42:35,828 - INFO - Concluido el test_api_delete_post
+2025-12-03 15:42:35,830 - INFO - Iniciando test_api_get_post
+2025-12-03 15:42:36,171 - INFO - codigo validado
+2025-12-03 15:42:36,171 - INFO - Concluido el test_api_get_post
+2025-12-03 15:42:36,173 - INFO - Iniciado el test_api_put_post
+2025-12-03 15:42:36,745 - INFO - Codigo validado
+2025-12-03 15:42:36,745 - INFO - Concluido el test_api_put_post
+2025-12-03 15:44:48,579 - INFO - Inicializando el navegador
+2025-12-03 15:44:57,352 - INFO - Cerrando el navegador
+2025-12-03 15:44:59,449 - INFO - Inicializando el navegador
+2025-12-03 15:45:08,437 - INFO - Cerrando el navegador
+2025-12-03 15:45:10,533 - INFO - Inicializando el navegador
+2025-12-03 15:45:20,362 - INFO - Cerrando el navegador
+2025-12-03 15:45:22,463 - INFO - Inicializando el navegador
+2025-12-03 15:45:27,186 - INFO - Cerrando el navegador
+2025-12-03 15:45:29,277 - INFO - Inicializando el navegador
+2025-12-03 15:45:34,006 - INFO - Cerrando el navegador

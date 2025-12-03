@@ -1,9 +1,11 @@
 from selenium.webdriver.common.by import By 
 from selenium.webdriver.support.ui import WebDriverWait 
 from selenium.webdriver.support import expected_conditions as EC
-from utils.funciones import URL
 
-class LoginPage: 
+_URL = "https://www.saucedemo.com/"
+
+class LoginPage:
+    
     _INPUT_NAME = (By.NAME, "user-name") 
     _INPUT_PASSWORD = (By.NAME, "password") 
     _LOGIN_BUTTON = (By.NAME, "login-button")
@@ -13,7 +15,7 @@ class LoginPage:
        self.driver = driver
 
     def open(self):
-        self.driver.get(URL)
+        self.driver.get(_URL)
 
     def login(self, username, password):
 
